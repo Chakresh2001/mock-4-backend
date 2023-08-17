@@ -6,6 +6,13 @@
       "Avatar" : "https://img.freepik.com/free-vector/isolated-young-handsome-man-different-poses-white-background-illustration_632498-859.jpg?w=740&t=st=1692268862~exp=1692269462~hmac=22d600e6a13b92709ec0710bad7efe90ac81c92502bfa3c9bbb26188f430fa0d",
       "Email" : "Jhondoe@mail.com",
       "Password" : "Jhon123"
+    },
+    {
+      "id" : 2,
+      "Username" : "Bob",
+      "Avatar" : "https://img.freepik.com/free-vector/isolated-young-handsome-man-different-poses-white-background-illustration_632498-859.jpg?w=740&t=st=1692268862~exp=1692269462~hmac=22d600e6a13b92709ec0710bad7efe90ac81c92502bfa3c9bbb26188f430fa0d",
+      "Email" : "bob@mail.com",
+      "Password" : "bob123"
     }
    ] ,
    "forum" : [
